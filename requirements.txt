@@ -1,0 +1,9 @@
+# jupyter
+torch
+numpy
+matplotlib
+rembg
+torchvision
+scikit-learn
+seaborn
+torchcam
