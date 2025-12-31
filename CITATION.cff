@@ -10,7 +10,7 @@ authors:
 
 repository-code: "https://github.com/fulvioamf/crab_vision_classifier"
 url: "https://github.com/fulvioamf/crab_vision_classifier"
-doi: "10.5281/zenodo.18111239"
+doi: "10.5281/zenodo.18111319"
 
 abstract: >
   Repositório para classificação de espécies por visão computacional utilizando deep learning (PyTorch),
@@ -29,7 +29,7 @@ keywords:
   - "crustáceos"
 
 license: "MIT"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2025-12-31"
 
 preferred-citation:
@@ -40,5 +40,5 @@ preferred-citation:
       given-names: "Fulvio"
       affiliation: "UFRN (Universidade Federal do Rio Grande do Norte) — LABEEC"
   year: 2025
-  doi: "10.5281/zenodo.18111239"
+  doi: "10.5281/zenodo.18111319"
   url: "https://github.com/fulvioamf/crab_vision_classifier"
