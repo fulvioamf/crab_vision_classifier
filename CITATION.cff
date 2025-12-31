@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Se você usar este repositório (código ou livro), por favor cite conforme abaixo."
+title: "Classificação de espécies por Visão Computacional: Crab Vision Classifier (Livro + Notebook)"
+type: software
+authors:
+  - family-names: "Freire"
+    given-names: "Fulvio"
+    affiliation: "UFRN (Universidade Federal do Rio Grande do Norte) — LABEEC"  # edite se quiser
+repository-code: "https://github.com/fulvioamf/crab_vision_classifier"
+url: "https://github.com/fulvioamf/crab_vision_classifier"
+keywords:
+  - "visão computacional"
+  - "aprendizado profundo"
+  - "CNN"
+  - "transfer learning"
+  - "classificação de espécies"
+  - "crustáceos"
+license: "MIT"   # se você escolher MIT; se for Apache, use "Apache-2.0"
+version: "0.1.0" # você pode atualizar depois para v1.0.0 quando fizer a release/DOI
+date-released: "2025-12-31"  # ajuste para a data real da release do livro
