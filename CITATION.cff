@@ -2,19 +2,43 @@ cff-version: 1.2.0
 message: "Se você usar este repositório (código ou livro), por favor cite conforme abaixo."
 title: "Classificação de espécies por Visão Computacional: Crab Vision Classifier (Livro + Notebook)"
 type: software
+
 authors:
   - family-names: "Freire"
     given-names: "Fulvio"
-    affiliation: "UFRN (Universidade Federal do Rio Grande do Norte) — LABEEC"  # edite se quiser
+    affiliation: "UFRN (Universidade Federal do Rio Grande do Norte) — LABEEC"
+
 repository-code: "https://github.com/fulvioamf/crab_vision_classifier"
 url: "https://github.com/fulvioamf/crab_vision_classifier"
+doi: "10.5281/zenodo.18111239"
+
+abstract: >
+  Repositório para classificação de espécies por visão computacional utilizando deep learning (PyTorch),
+  com pipeline de pré-processamento, treinamento com transfer learning, avaliação (loss/accuracy, matriz de confusão,
+  ROC/AUC) e interpretabilidade (Grad-CAM). Inclui um livro/tutorial em PDF e um notebook com explicação linha a linha
+  e interpretação das saídas.
+
 keywords:
   - "visão computacional"
+  - "aprendizado de máquina"
   - "aprendizado profundo"
   - "CNN"
   - "transfer learning"
+  - "fine-tuning"
   - "classificação de espécies"
   - "crustáceos"
-license: "MIT"   # se você escolher MIT; se for Apache, use "Apache-2.0"
-version: "0.1.0" # você pode atualizar depois para v1.0.0 quando fizer a release/DOI
-date-released: "2025-12-31"  # ajuste para a data real da release do livro
+
+license: "MIT"
+version: "1.0.0"
+date-released: "2025-12-31"
+
+preferred-citation:
+  type: software
+  title: "Classificação de espécies por Visão Computacional: Crab Vision Classifier (Livro + Notebook)"
+  authors:
+    - family-names: "Freire"
+      given-names: "Fulvio"
+      affiliation: "UFRN (Universidade Federal do Rio Grande do Norte) — LABEEC"
+  year: 2025
+  doi: "10.5281/zenodo.18111239"
+  url: "https://github.com/fulvioamf/crab_vision_classifier"
