@@ -1,4 +1,4 @@
-# crab_vision_classifier (https://doi.org/10.5281/zenodo.18111239)
+# crab_vision_classifier (https://doi.org/10.5281/zenodo.18111319)
 
 Este projeto possui uma parcela dos dados utilizados durante a pesquisa realizada pelo
 Laboratório de Ecologia e Evolução de Crustáceos (LABEEC) da UFRN. Sendo composto
