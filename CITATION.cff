@@ -13,7 +13,7 @@ authors:
 
 repository-code: "https://github.com/fulvioamf/crab_vision_classifier"
 url: "https://github.com/fulvioamf/crab_vision_classifier"
-doi: "10.5281/zenodo.18111319"  # manter por enquanto; atualizar após a nova release/DOI
+doi: "10.5281/zenodo.18118150"
 
 abstract: >
   Repositório para classificação de espécies por visão computacional utilizando deep learning (PyTorch),
@@ -46,5 +46,5 @@ preferred-citation:
       given-names: "Vitor Carvalho"
       affiliation: "UFRN (Universidade Federal do Rio Grande do Norte) — LABEEC"
   year: 2026
-  doi: "10.5281/zenodo.18111319"  # manter por enquanto; atualizar após a nova release/DOI
+  doi: "10.5281/zenodo.18118150"  # manter por enquanto; atualizar após a nova release/DOI
   url: "https://github.com/fulvioamf/crab_vision_classifier"
